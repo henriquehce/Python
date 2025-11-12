@@ -1,4 +1,3 @@
-
 rendimento_lata = float(input("Digite o rendimento da lata de tinta: "))
 largura_parede = float(input("Digite o largura da parede: "))
 altura_parede = float(input("Digite a altura da parede: "))

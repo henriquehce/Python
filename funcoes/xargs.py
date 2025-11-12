@@ -19,10 +19,6 @@ def soma(*valores):
     return resposta
 
 
-x = soma(1, 2, 3, 4, 5, 6, 7, 8)
-print(f'Resultado da soma dos numeros dados foi igual a: {x}')
-
-
 def somador(*numeros):
     resultado = 0
     for num in numeros:
